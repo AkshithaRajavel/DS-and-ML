@@ -1,0 +1,10 @@
+Gender,Marital Status,Number of dependent people,Education status,Whether self-employed or not,Applicant income,Co-applicant income,Loan amount (in Lakhs),Loan term(in years),Credit history,Area,Status of loan repayment
+Male,Single,3,Undergraduate,Yes,10,9,5,2,Good,Chennai,Payed
+Female,married,4,Postgraduate,No,6,7,9,4,Good,Madurai,Payed
+Female,Single,6,High School,Yes,4,5,10,6,Good,Coimbatore,Payed
+Male,Single,9,Undergraduate,No,5,3,6,5,Good,Kanniyakumari,Payed
+Male,married,2,Postgraduate,Yes,9,11,4,3,Good,Cuddalor,Payed
+Male,Single,3,High School,Yes,12,16,9,1,Good,Erode,Payed
+Female,married,4,Postgraduate,No,8,5,10,4,Good,Chennai,Payed
+Female,married,1,Undergraduate,No,7,19,13,3,Good,Salem,Payed
+Male,Single,3,Postgraduate,Yes,22,5,11,5,Good,Madurai,Payed
